@@ -1,4 +1,4 @@
-# ClassTableOneDemo
+# CourseTableOneDemo
 onedemo
 江南大学课程表 安卓 临时版
 
